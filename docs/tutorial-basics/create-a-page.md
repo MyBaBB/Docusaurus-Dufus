@@ -40,4 +40,8 @@ Create a file at `src/pages/my-markdown-page.md`:
 This is a Markdown page
 ```
 
+ 
+  ![image](../../static/img/docusaurus.png "dufus image")
+ 
+ 
 A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
