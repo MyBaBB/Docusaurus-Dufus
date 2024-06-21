@@ -1,4 +1,5 @@
 # Website
+## Dufus Blank for Observation on Virgin Docusaurus
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
